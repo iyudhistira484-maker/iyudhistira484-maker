@@ -73,7 +73,7 @@ sistem yang bersih, dan percaya kode yang baik itu kode yang sederhana.
 
 <div align="center">
 <a href="https://github.com/iyudhistira484-maker"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=B967FF&labelColor=0d0d0d" /></a>
-<a href="mailto:ilham@example.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0d0d0d" /></a>
+<a href="mailto:iyudhistira484@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0d0d0d" /></a>
 <a href="https://linkedin.com/in/iyudhistira484-maker"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0d0d0d" /></a>
 </div>
 
