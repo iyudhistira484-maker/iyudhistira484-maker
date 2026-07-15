@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1000&color=B967FF&center=true&vCenter=true&width=650&lines=MUHAMMAD+ILHAM+YUDHISTIRA" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=B967FF&center=true&vCenter=true&width=800&lines=MUHAMMAD+ILHAM+YUDHISTIRA" alt="Name" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=560&lines=Software+Developer;Linux+%2B+Terminal+Enthusiast;Building+things+that+matter" alt="Typing SVG" />
 
@@ -62,10 +62,10 @@ sistem yang bersih, dan percaya kode yang baik itu kode yang sederhana.
 
 <br>
 
-<h3 align="center">🐍 Contribution Snake</h3>
+<h3 align="center">🏆 Achievements</h3>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/iyudhistira484-maker/iyudhistira484-maker/output/github-contribution-grid-snake-dark.svg" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=iyudhistira484-maker&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
 </div>
 
 <br>
