@@ -65,7 +65,7 @@ sistem yang bersih, dan percaya kode yang baik itu kode yang sederhana.
 <h3 align="center">🏆 Achievements</h3>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iyudhistira484-maker&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=iyudhistira484-maker&theme=onedark&row=1&column=7" />
 </div>
 
 <br>
