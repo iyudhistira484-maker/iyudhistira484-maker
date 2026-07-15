@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:8e2de2,100:0f0c29&height=200&section=header&animation=fadeIn" width="100%" />
 
-<img src="https://raw.githubusercontent.com/iyudhistira484-maker/iyudhistira484-maker/main/avatar.svg" width="190" />
+<img src="https://raw.githubusercontent.com/iyudhistira484-maker/iyudhistira484-maker/main/avatar.jpg" width="190" />
 
 <br><br>
 
