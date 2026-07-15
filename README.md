@@ -29,10 +29,13 @@
 <h3 align="center">💻 About Me</h3>
 
 <p align="center">
-Halo, saya <b>Ilham</b>. Saya membangun aplikasi web dari front-end sampai sistem<br>
-yang lebih dekat ke logika — dari antarmuka yang rapi di browser sampai<br>
-performa yang efisien di level C++. Terbiasa kerja di terminal, suka<br>
-sistem yang bersih, dan percaya kode yang baik itu kode yang sederhana.
+Halo, gue <b>Ilham</b>. Gue bangun aplikasi dan web dari front-end sampe sistem<br>
+yang lebih deket ke logika — dari antarmuka yang rapi di browser mobile dan desktop sampe<br>
+performa yang efisien di level C++. Selain itu, gue juga bikin tools penetration testing,<br>
+mulai dari DDoS, bruteforce, LFI, SSRF, SQLi, XSS, dan lain-lain, yang gue satuin<br>
+dalam satu CLI bernama <b>NUSATOOL</b>. Lebih sering mantengin terminal daripada GUI,<br>
+mikirnya selalu "gimana caranya sistem ini bisa ditembus" sekaligus "gimana caranya<br>
+bikin ini rapi", dan percaya kode yang baik itu kode yang sederhana.
 </p>
 
 <br>
