@@ -86,7 +86,7 @@ sistem yang bersih, dan percaya kode yang baik itu kode yang sederhana.
 <a href="https://piupiu.qzz.io"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=B967FF&labelColor=0d0d0d" /></a>
 <a href="https://github.com/iyudhistira484-maker"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=B967FF&labelColor=0d0d0d" /></a>
 <a href="mailto:ilham@example.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0d0d0d" /></a>
-<a href="https://instagram.com/iyudhistira484-maker"><img src="https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0d0d0d" /></a>
+<a href="https://instagram.com/piwupiu_"><img src="https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0d0d0d" /></a>
 </div>
 
 <br>
