@@ -48,8 +48,8 @@ sistem yang bersih, dan percaya kode yang baik itu kode yang sederhana.
 <h3 align="center">📊 GitHub Activity</h3>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iyudhistira484-maker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b967ff&icon_color=00e5ff&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyudhistira484-maker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b967ff&text_color=c9d1d9" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=iyudhistira484-maker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b967ff&icon_color=00e5ff&text_color=c9d1d9&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyudhistira484-maker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b967ff&text_color=c9d1d9&cache_seconds=1800" width="42%" />
 </div>
 
 <div align="center">
@@ -65,7 +65,7 @@ sistem yang bersih, dan percaya kode yang baik itu kode yang sederhana.
 <h3 align="center">🏆 Achievements</h3>
 
 <div align="center">
-<img src="https://github-trophies.vercel.app/?username=iyudhistira484-maker&theme=onedark&row=1&column=7" />
+<img src="https://github-trophies.vercel.app/?username=iyudhistira484-maker&theme=dracula&row=1&column=7&margin-w=10" />
 </div>
 
 <br>
