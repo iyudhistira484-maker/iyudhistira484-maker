@@ -6,7 +6,11 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=B967FF&center=true&vCenter=true&width=560&lines=Muhammad+Ilham+Yudhistira;Software+Developer;Linux+%2B+Terminal+Enthusiast;Welcome+to+my+profile" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1000&color=B967FF&center=true&vCenter=true&width=650&lines=MUHAMMAD+ILHAM+YUDHISTIRA" alt="Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=560&lines=Software+Developer;Linux+%2B+Terminal+Enthusiast;Building+things+that+matter" alt="Typing SVG" />
+
+<br>
 
 <img src="https://img.shields.io/badge/OS-Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=00E5FF&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/SHELL-zsh-1a1a1a?style=for-the-badge&logo=gnu-bash&logoColor=00E5FF&labelColor=0d0d0d" />
@@ -14,11 +18,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=iyudhistira484-maker&label=Profile+Views&color=B967FF&style=for-the-badge&labelColor=0d0d0d" />
 
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:00e5ff&height=3&width=100%25" />
+
 </div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%">
 
 <br>
 
@@ -75,7 +79,5 @@ sistem yang bersih, dan percaya kode yang baik itu kode yang sederhana.
 </div>
 
 <br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:8e2de2,100:0f0c29&height=120&section=footer" width="100%" />
