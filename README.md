@@ -64,7 +64,18 @@ sistem yang bersih, dan percaya kode yang baik itu kode yang sederhana.
 <h3 align="center">🏆 Achievements</h3>
 
 <div align="center">
-<img src="https://github-trophies.vercel.app/?username=iyudhistira484-maker&theme=radical&no-bg=true&rank=-UNKNOWN&row=2&column=4&margin-w=12&margin-h=12" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/Commits-155+-1a1a1a?style=for-the-badge&labelColor=0d0d0d&color=B967FF" />
+<img src="https://img.shields.io/badge/Repositories-Active-1a1a1a?style=for-the-badge&labelColor=0d0d0d&color=00E5FF" />
+<img src="https://img.shields.io/badge/Streak-5%20Days-1a1a1a?style=for-the-badge&labelColor=0d0d0d&color=B967FF" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🔥_Consistent_Contributor-1a1a1a?style=for-the-badge&labelColor=0d0d0d&color=00E5FF" />
+<img src="https://img.shields.io/badge/⚡_Fast_Learner-1a1a1a?style=for-the-badge&labelColor=0d0d0d&color=B967FF" />
+
+</div>
 </div>
 
 <br>
@@ -73,7 +84,7 @@ sistem yang bersih, dan percaya kode yang baik itu kode yang sederhana.
 
 <div align="center">
 <a href="https://github.com/iyudhistira484-maker"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=B967FF&labelColor=0d0d0d" /></a>
-<a href="mailto:iyudhistira484@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0d0d0d" /></a>
+<a href="mailto:ilham@example.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0d0d0d" /></a>
 <a href="https://linkedin.com/in/iyudhistira484-maker"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0d0d0d" /></a>
 </div>
 
