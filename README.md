@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:8e2de2,100:0f0c29&height=200&section=header&animation=fadeIn" width="100%" />
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgdmlld0JveD0iMCAwIDE3MCAxNzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8Y2xpcFBhdGggaWQ9ImF2YXRhckNsaXAiPgogICAgICA8Y2lyY2xlIGN4PSI4NSIgY3k9Ijg1IiByPSI2NSIvPgogICAgPC9jbGlwUGF0aD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0icmluZ0dyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjQjk2N0ZGIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMzUlIiBzdG9wLWNvbG9yPSIjMDBFNUZGIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNjUlIiBzdG9wLWNvbG9yPSIjQjk2N0ZGIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAwRTVGRiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPGc+CiAgICA8Y2lyY2xlIGN4PSI4NSIgY3k9Ijg1IiByPSI3NiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ1cmwoI3JpbmdHcmFkKSIgc3Ryb2tlLXdpZHRoPSI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1kYXNoYXJyYXk9IjM2MCAxMjAiPgogICAgICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgZnJvbT0iMCA4NSA4NSIgdG89IjM2MCA4NSA4NSIgZHVyPSI0cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iODUiIGN5PSI4NSIgcj0iNjgiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzBkMGQwZCIgc3Ryb2tlLXdpZHRoPSIyIiBvcGFjaXR5PSIwLjYiLz4KICAgIDxpbWFnZSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vaXl1ZGhpc3RpcmE0ODQtbWFrZXIucG5nIiB4PSIyMCIgeT0iMjAiIHdpZHRoPSIxMzAiIGhlaWdodD0iMTMwIiBjbGlwLXBhdGg9InVybCgjYXZhdGFyQ2xpcCkiLz4KICAgIDxjaXJjbGUgY3g9Ijg1IiBjeT0iODUiIHI9IjY1IiBmaWxsPSJub25lIiBzdHJva2U9IiNCOTY3RkYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIwLjUiLz4KICA8L2c+Cjwvc3ZnPgo=" width="170" />
+<img src="https://raw.githubusercontent.com/iyudhistira484-maker/iyudhistira484-maker/main/avatar.svg" width="190" />
 
 <br><br>
 
@@ -83,6 +83,7 @@ sistem yang bersih, dan percaya kode yang baik itu kode yang sederhana.
 <h3 align="center">🌐 Connect With Me</h3>
 
 <div align="center">
+<a href="https://piupiu.qzz.io"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=B967FF&labelColor=0d0d0d" /></a>
 <a href="https://github.com/iyudhistira484-maker"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=B967FF&labelColor=0d0d0d" /></a>
 <a href="mailto:ilham@example.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0d0d0d" /></a>
 <a href="https://instagram.com/iyudhistira484-maker"><img src="https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0d0d0d" /></a>
